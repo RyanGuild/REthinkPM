@@ -28,7 +28,7 @@
     "nodemailer": "^6.3.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
-    "twilio": "^3.34.0"
+    "twilio": "^3.51.0"
   },
   "devDependencies": {
     "jest": "^25.1.0",
